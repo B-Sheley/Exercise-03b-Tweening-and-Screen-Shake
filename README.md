@@ -26,4 +26,4 @@ Built using Godot 3.5
 Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
-Jason Francis
+Brandon Sheley
